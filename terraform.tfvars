@@ -1,4 +1,6 @@
 ############## TFVARS #################### 
+
+name = "Test-Workspace-Ec2"
 instance_count = { 
   "Dev"  = 1 
   "Prod" = 2 
